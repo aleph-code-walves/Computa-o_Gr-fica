@@ -7,12 +7,6 @@ Visualizador de cubo 3D com wireframe usando OpenGL/GLUT. As transformações de
 - OpenGL
 - freeglut
 
-## Compilação
-
-```bash
-g++ cubo3d.cpp -o cubo3d -lGL -lglut -lGLU -lm
-```
-
 ## Controles
 
 | Tecla | Ação |
